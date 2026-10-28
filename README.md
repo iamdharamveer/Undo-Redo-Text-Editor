@@ -6,7 +6,7 @@
 - **Project Type:** Team Project
 - **Team Members:**
   1. Dharamveer Kushwaha — UID: 25BCS11049
-  2. Sarvesh Gupta — UID: 25BCS11049
+  2. Sarvesh Gupta — UID: 25BCS10169
 - **Subject:** Advance Data Structure
 - **Subject Code:** 25CSH-202
 - **Semester:** 3rd Semester
@@ -211,7 +211,7 @@ This project demonstrates:
 UID: 25BCS11049
 
 **2. Sarvesh Gupta**  
-UID: 25BCS11049
+UID: 25BCS10169
 
 **Subject:** Advance Data Structure  
 **Subject Code:** 25CSH-202  
